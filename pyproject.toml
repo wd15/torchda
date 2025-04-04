@@ -13,6 +13,7 @@ notebook = "^7.2.1"
 seaborn = "^0.13.2"
 scipy = "^1.14.1"
 fipy = "^3.4.5"
+poetry = "^2.1.2"
 
 
 
