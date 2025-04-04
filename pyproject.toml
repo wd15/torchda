@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pyro-fun"
+name = "torchda"
 version = "0.1.0"
 description = ""
 authors = ["Daniel Wheeler <daniel.wheeler2@gmail.com>"]
@@ -8,16 +8,10 @@ package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.12"
-pyro-ppl = "^1.9.1"
-torchvision = "^0.19.0"
-pandas = "^2.2.2"
+torchvision = "^0.21.0"
 notebook = "^7.2.1"
 seaborn = "^0.13.2"
-graphviz = "^0.20.3"
-dot = "^0.3.0"
 scipy = "^1.14.1"
-arviz = "^0.20.0"
-numpyro = "^0.15.3"
 fipy = "^3.4.5"
 
 
